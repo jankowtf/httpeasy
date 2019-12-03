@@ -1,0 +1,11 @@
+default:
+  openapi: 3.0.0
+  info:
+    title: Internal test API for {httpeasy}
+    description: Internal test API for {httpeasy.
+    version: 0.0.0.9000
+  servers:
+    - url: http://127.0.1.1:8000/v1
+      description: Test server
+    - url: http://starging-api.example.com/v1
+      description: Test server

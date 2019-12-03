@@ -5,6 +5,12 @@
 
 <!-- badges: start -->
 
+[![Travis build
+status](https://travis-ci.org/rappster/httpeasy.svg?branch=master)](https://travis-ci.org/rappster/httpeasy)
+[![Codecov test
+coverage](https://codecov.io/gh/rappster/httpeasy/branch/master/graph/badge.svg)](https://codecov.io/gh/rappster/httpeasy?branch=master)
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 <!-- badges: end -->
 
 The goal of httpeasy is to …

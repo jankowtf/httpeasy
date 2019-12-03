@@ -511,6 +511,13 @@
       "Repository": "CRAN",
       "Hash": "f214a72af3442fdd3396ceccbb7d7f44"
     },
+    "plumber": {
+      "Package": "plumber",
+      "Version": "0.4.6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "e5700af025f64e0ed43fb84eecb45330"
+    },
     "plyr": {
       "Package": "plyr",
       "Version": "1.8.4",

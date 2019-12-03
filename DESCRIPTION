@@ -9,14 +9,21 @@ Authors@R:
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Helps with some low-level HTTP stuff.
 License: MIT + file LICENSE
+Imports: 
+    magrittr,
+    config,
+    lifecycle,
+    callr,
+    confx
+Suggests: 
+    testthat (>= 2.1.0),
+    covr,
+    plumber
+RdMacros: 
+    lifecycle
+Remotes:
+    rappster/confx
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-Imports: 
-    magrittr,
-    config
-Remotes:
-    rappster/confx
 RoxygenNote: 7.0.2
-Suggests: 
-    testthat
