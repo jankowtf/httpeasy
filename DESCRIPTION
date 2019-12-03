@@ -1,0 +1,22 @@
+Package: httpeasy
+Title: Easy peasy HTTP
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Janko",
+           family = "Thyson",
+           role = c("aut", "cre"),
+           email = "janko@rappster.io",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Helps with some low-level HTTP stuff.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+Imports: 
+    magrittr,
+    config
+Remotes:
+    rappster/confx
+RoxygenNote: 7.0.2
+Suggests: 
+    testthat
