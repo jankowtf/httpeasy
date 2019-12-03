@@ -8,6 +8,7 @@ Authors@R:
            email = "janko@rappster.io",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Helps with some low-level HTTP stuff.
+URL: http://github.com/rappster/httpeasy
 License: MIT + file LICENSE
 Imports: 
     magrittr,
@@ -19,10 +20,10 @@ Suggests:
     testthat (>= 2.1.0),
     covr,
     plumber
-RdMacros: 
-    lifecycle
 Remotes:
     rappster/confx
+RdMacros: 
+    lifecycle
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)

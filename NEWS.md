@@ -1,6 +1,18 @@
-# httpeasy (development version)
+# v0.0.0.9001
 
-# httpeasy 0.0.0.9000
+Added GitHub URL and fixed some typos
+
+Fixed/close:
+
+Changed:
+
+New:
+
+- Added GitHub URL in `DESCRIPTION` file
+
+--------------------------------------------------------------------------------
+
+# v0.0.0.9000
 
 Initial version
 
