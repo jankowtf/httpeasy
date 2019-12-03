@@ -1,3 +1,20 @@
+# v0.0.0.9004
+
+Forgotten exports and devtools as suggested dep
+
+Fixed/closed:
+
+- Exported `compose_get_call()`
+- Exported `process_get_call_args()`
+
+Changed:
+
+New:
+
+- Added dependency `{devtools}` to `Suggests:` in `DESCRIPTION`
+
+--------------------------------------------------------------------------------
+
 # v0.0.0.9003
 
 Dynamic route arguments

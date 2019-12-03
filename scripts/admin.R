@@ -19,3 +19,4 @@ renv::snapshot()
 
 usethis::use_test("misc")
 usethis::use_test("get_calls")
+usethis::use_package("devtools", type = "suggests")

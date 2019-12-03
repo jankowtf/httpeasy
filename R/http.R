@@ -1,3 +1,11 @@
+#' Title \lifecycle{experimental}
+#'
+#' @param call_endpoint
+#' @param call_meta
+#' @param call_args
+#'
+#' @return
+#' @export
 compose_get_call <- function(
   call_endpoint,
   call_meta,
@@ -53,6 +61,12 @@ compose_get_call <- function(
   }
 }
 
+#' Title \lifecycle{experimental}
+#'
+#' @param args
+#'
+#' @return
+#' @export
 process_get_call_args <- function(args) {
   purrr::map2(
     names(args), args,
