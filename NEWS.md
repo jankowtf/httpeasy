@@ -1,4 +1,17 @@
-# httpeasy (development version)
+# v0.0.0.9003
+
+Dynamic route arguments
+
+Fixed/closed:
+
+Changed:
+
+New:
+
+- Features to supply dynamic API route arguments together with additional query
+string arguments in `compose_get_call()`
+
+--------------------------------------------------------------------------------
 
 # v0.0.0.9002
 
