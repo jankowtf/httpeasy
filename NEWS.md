@@ -1,10 +1,23 @@
-# httpeasy (development version)
+# v0.0.0.9002
+
+NAMESPACE
+
+Fixed/closed:
+
+- Added missing NAMESPACE file
+
+Changed:
+
+New:
+
+--------------------------------------------------------------------------------
+
 
 # v0.0.0.9001
 
 Added GitHub URL and fixed some typos
 
-Fixed/close:
+Fixed/closed:
 
 Changed:
 
@@ -18,7 +31,7 @@ New:
 
 Initial version
 
-Fixed/close:
+Fixed/closed:
 
 Changed:
 
